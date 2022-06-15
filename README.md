@@ -20,7 +20,7 @@ The dataset can be found in the `data` folder and it comes in `.csv` format. The
 4. ALIGNMENT : contains the word alignments
 5. MONOTONIC : contains labels indicating whether the alignment is monotonic
 
-The `splits` folder contains listss of IDs for three different splits: a question split, a query split and a length split. The test set IDs are found in the `test.txt` files. Moreover, we provide three development sets `dev1.txt`, `dev2.txt` and `dev3.txt`, which can be used for validation.
+The `splits` folder contains lists of IDs for three different splits: a question split, a query split and a length split. The test set IDs are found in the `test.txt` files. Moreover, we provide three development sets `dev1.txt`, `dev2.txt` and `dev3.txt`, which can be used for validation.
 
 ## Citation
 If you find GEO-Aligned useful in your research, please cite this paper:
