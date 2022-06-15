@@ -13,11 +13,14 @@ The alignments were provided by expert annotators who found that the majority of
 *06-15-2022: English and Italian versions are now available. German to be uploaded shortly.*
 
 ## Format
-The dataset comes in `.csv` format, and it has four columns:
-1. NL : contains the natural language queries
-2. MR : contains the meaning representation programs
-3. ALIGNMENT : contains the word alignments
-4. MONOTONIC : contains labels indicating whether the alignment is monotonic
+The dataset can be found in the `data` folder and it comes in `.csv` format. There are five columns:
+1. ID : contains the ids of the example
+2. NL : contains the natural language queries
+3. MR : contains the meaning representation programs
+4. ALIGNMENT : contains the word alignments
+5. MONOTONIC : contains labels indicating whether the alignment is monotonic
+
+The `splits` folder contains listss of IDs for three different splits: a question split, a query split and a length split. The test set IDs are found in the `test.txt` files. Moreover, we provide three development sets `dev1.txt`, `dev2.txt` and `dev3.txt`, which can be used for validation.
 
 ## Citation
 If you find GEO-Aligned useful in your research, please cite this paper:
