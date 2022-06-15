@@ -30,5 +30,4 @@ If you find GEO-Aligned useful in your research, please cite this paper:
   publisher = {arXiv},
   year = {2022},
 }
-
 ```
