@@ -1,7 +1,7 @@
 # GEO-Aligned
 
 ## Introduction
-GEO-Aligned is a semantic parsing dataset that was obtained by augmenting the popular GeoQuery data with word alignment information. 
+GEO-Aligned is a semantic parsing dataset that was obtained by augmenting the popular GeoQuery data with word alignment information. You can read about it in our [paper](https://aclanthology.org/2022.starsem-1.17/).
 
 It comes in three languages:
 - 🇺🇸 English, based on the [original dataset](https://dl.acm.org/doi/10.5555/1864519.1864543)
@@ -25,12 +25,17 @@ The `splits` folder contains lists of IDs for three different splits: a question
 ## Citation
 If you find GEO-Aligned useful in your research, please cite this paper:
 ```
-@misc{https://doi.org/10.48550/arxiv.2205.08288,
-  doi = {10.48550/ARXIV.2205.08288},
-  url = {https://arxiv.org/abs/2205.08288},
-  author = {Locatelli, Davide and Quattoni, Ariadna},
-  title = {Measuring Alignment Bias in Neural Seq2Seq Semantic Parsers},
-  publisher = {arXiv},
-  year = {2022},
+@inproceedings{locatelli-quattoni-2022-measuring,
+    title = "Measuring Alignment Bias in Neural Seq2seq Semantic Parsers",
+    author = "Locatelli, Davide  and
+      Quattoni, Ariadna",
+    booktitle = "Proceedings of the 11th Joint Conference on Lexical and Computational Semantics",
+    month = jul,
+    year = "2022",
+    address = "Seattle, Washington",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.starsem-1.17",
+    doi = "10.18653/v1/2022.starsem-1.17",
+    pages = "200--207"
 }
 ```
