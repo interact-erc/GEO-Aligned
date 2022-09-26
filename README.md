@@ -10,8 +10,6 @@ It comes in three languages:
 
 The alignments were provided by expert annotators who found that the majority of the examples can be aligned monotonically.
 
-*06-15-2022: English and Italian versions are now available. German to be uploaded shortly.*
-
 ## Format
 The dataset can be found in the `data` folder and it comes in `.csv` format. There are five columns:
 1. ID : contains the ids of the example
