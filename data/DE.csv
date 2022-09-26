@@ -1,4 +1,4 @@
-,NL,MR,ALIGNMENT,MONOTONIC
+ID,NL,MR,ALIGNMENT,MONOTONIC
 0,gebe mir die staedte in virginia,answer city loc_2 stateid(virginia),"('gebe', 'answer'), ('mir', 'ε'), ('die', 'ε'), ('staedte', 'city'), ('in', 'loc_2'), ('virginia', 'stateid(virginia)')",1
 1,welches sind die hoechsten punkte der an mississippi grenzenden staaten,answer high_point_1 state next_to_2 stateid(mississippi),"('welches', 'answer'), ('sind', 'ε'), ('die', 'ε'), ('hoechsten', 'high_point_1'), ('punkte', 'ε'), ('der', 'ε'), ('an', 'ε'), ('mississippi', 'stateid(mississippi)'), ('grenzenden', 'next_to_2'), ('staaten', 'state')",0
 2,nenne die fluesse in arkansas,answer river loc_2 stateid(arkansas),"('nenne', 'answer'), ('die', 'ε'), ('fluesse', 'river'), ('in', 'loc_2'), ('arkansas', 'stateid(arkansas)')",1
