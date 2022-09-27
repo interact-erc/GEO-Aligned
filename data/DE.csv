@@ -38,7 +38,7 @@ ID,NL,MR,ALIGNMENT,MONOTONIC
 36,wie lange ist rio grande,answer len riverid(rio grande),"('wie', 'answer'), ('lange', 'len'), ('ist', 'ε'), ('rio', 'riverid(rio grande)'), ('grande', 'ε')",1
 37,wie lang ist der colorado fluss,answer len riverid(colorado),"('wie', 'answer'), ('lang', 'len'), ('ist', 'ε'), ('der', 'ε'), ('colorado', 'riverid(colorado)'), ('fluss', 'ε')",1
 38,wie lang ist der delaware fluss,answer len riverid(delaware),"('wie', 'answer'), ('lang', 'len'), ('ist', 'ε'), ('der', 'ε'), ('delaware', 'riverid(delaware)'), ('fluss', 'ε')",1
-39,wie lang ist der laengste fluss californias,answer len longest river loc_2 stateid(california),"('wie', 'answer'), ('lang', 'len'), ('ist', 'ε'), ('der', 'ε'), ('laengste', 'longest'), ('fluss', 'river'), ('ε', 'loc_2), ('californias', 'stateid(california)')",1
+39,wie lang ist der laengste fluss californias,answer len longest river loc_2 stateid(california),"('wie', 'answer'), ('lang', 'len'), ('ist', 'ε'), ('der', 'ε'), ('laengste', 'longest'), ('fluss', 'river'), ('ε', 'loc_2'), ('californias', 'stateid(california)')",1
 40,wie lange ist der laengste fluss der usa,answer len longest river loc_2 countryid(usa),"('wie', 'answer'), ('lange', 'len'), ('ist', 'ε'), ('der', 'ε'), ('laengste', 'longest'), ('fluss', 'river'), ('der', 'loc_2'), ('usa', 'countryid(usa)')",1
 41,wie lang ist der mississippi fluss,answer len riverid(mississippi),"('wie', 'answer'), ('lang', 'len'), ('ist', 'ε'), ('der', 'ε'), ('mississippi', 'riverid(mississippi)'), ('fluss', 'ε')",1
 42,wie lange is der mississippi,answer len riverid(mississippi),"('wie', 'answer'), ('lange', 'len'), ('is', 'ε'), ('der', 'ε'), ('mississippi', 'riverid(mississippi)')",1
