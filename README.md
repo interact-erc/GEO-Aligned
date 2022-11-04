@@ -18,6 +18,10 @@ The dataset can be found in the `data` folder and it comes in `.csv` format. The
 4. ALIGNMENT : contains the word alignments
 5. MONOTONIC : contains labels indicating whether the alignment is monotonic
 
+There are two versions for each language: 
+- Files named `{language}.csv` contain the dataset with constants (city names, state names, etc)
+- Files named `{language}_anon.csv` contain the anonymized version of the data
+
 The `splits` folder contains lists of IDs for three different splits: a question split, a query split and a length split. The test set IDs are found in the `test.txt` files. Moreover, we provide three development sets `dev1.txt`, `dev2.txt` and `dev3.txt`, which can be used for validation.
 
 ## Citation
