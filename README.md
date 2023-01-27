@@ -1,7 +1,7 @@
 # GEO-Aligned
 
 ## Introduction
-GEO-Aligned is a semantic parsing dataset that was obtained by augmenting the popular GeoQuery data with word alignment information. You can read about it in our [paper](https://aclanthology.org/2022.starsem-1.17/).
+GEO-Aligned is a semantic parsing dataset that was obtained by augmenting the popular GeoQuery data with word alignment information. You can read about it in our *SEM [paper](https://aclanthology.org/2022.starsem-1.17/).
 
 It comes in three languages:
 - 🇺🇸 English, based on the [original dataset](https://dl.acm.org/doi/10.5555/1864519.1864543)
