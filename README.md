@@ -4,9 +4,9 @@
 GEO-Aligned is a semantic parsing dataset that was obtained by augmenting the popular GeoQuery data with word alignment information. You can read about it in our *SEM [paper](https://aclanthology.org/2022.starsem-1.17/).
 
 It comes in three languages:
-- 🇺🇸 English, based on the [original dataset](https://dl.acm.org/doi/10.5555/1864519.1864543)
-- 🇩🇪 German, based on [multilingual GeoQuery](https://aclanthology.org/P12-1051/)
-- 🇮🇹 Italian, based on translations that were provided by two native speaker annotators as part of this work
+- English, based on the [original dataset](https://dl.acm.org/doi/10.5555/1864519.1864543)
+- German, based on [multilingual GeoQuery](https://aclanthology.org/P12-1051/)
+- Italian, based on translations that were provided by two native speaker annotators as part of this work
 
 The alignments were provided by expert annotators who found that the majority of the examples can be aligned monotonically.
 
